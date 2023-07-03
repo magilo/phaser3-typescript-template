@@ -3,7 +3,5 @@
         "target": "es5",
         "moduleResolution": "node"
     },
-    "include": [
-        "./src/**/*"
-    ]
+    "include": ["./src/**/*", "tests"]
 }
